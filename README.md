@@ -1,4 +1,3 @@
-# 4-Drone Leader–Follower Swarm
 # 🛩️ Multi-Drone Leader–Follower Swarm System  
 ### Simulation + Raspberry Pi Network Validation (ROS-Based)
 
